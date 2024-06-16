@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "extension": "^1.6.0"
+  },
+  "scripts": {
+    "dev": "extension dev",
+    "start": "extension start",
+    "build": "extension build"
+  },
+  "name": "openinthesametab",
+  "private": true,
+  "version": "0.0.0"
+}
